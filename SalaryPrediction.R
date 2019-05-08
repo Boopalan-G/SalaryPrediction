@@ -1,4 +1,3 @@
-# Simple Linear Regression
 
 # Importing the dataset
 dataset = read.csv('Salary_Data.csv')
